@@ -1,0 +1,168 @@
+                               README.txt File
+                       README file for GIGA-BYTE(R) NVIDIA Series Ver.31.1
+                  (C) Copyright GIGA-BYTE TECHNOLOGY CO., LTD., 2017
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+I) INSTALLATION
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Run "setup.exe" under the root directory of your driver CD.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+II) DRIVER CD CONTENT
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+   \---+-->\README.txt
+       |
+       +-->\DIRECTX\
+       |               
+       +-->\UTILITY\----+-->\NVIDIA manual\
+                        |
+                        +-->\AORUS ENGINE
+       |               
+       +-->\DRIVER\-----+-->\Win8.1_Win8_Win7_32\
+                        |
+                        +-->\Win8.1_Win8_Win7_64\
+                        |
+                        +-->\Win10_32\
+                        |
+                        +-->\Win10_64\
+       
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+III) DIRECTORY DESCRIPTION
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+\README.txt               -- This introduction file.
+\DRIVER\ 		  -- Nvidia Display drivers for Windows.
+\DIRECTX\                 -- DirectX 9.0c Runtime Libraries.
+\UTILITY\                 -- NVIDIA manual/AORUS ENGINE
+Note: For detail description, please reference the readme file in 
+      the corresponding directory where the driver is located.
+      
+Driver Version: 384.76
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+IV) GIGA-BYTE(R) Customer Service Information
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Contact Gigabyte-Customer FeedBack
+  Your feedback is important to us. If you have any comments about our products or services, please kindly contact our customer service center.
+  TEL : 866 (2) 8912-4000
+  FAX : 866 (2) 8912-4005
+
+Contact Gigabyte-Technical Support
+  In order to serve you better, we have reorganized our Technical Support Zone Please Visit our Gigabyte Technical Service Zone for further technical support.
+
+Contact Gigabyte-Regional Contacts
+  Taiwan
+  Gigabyte Technology Co., Ltd.
+  ¡EAddress: No.6, Bau Chiang Road, Hsin-Tien, Taipei Hsien, Taiwan. 
+  ¡ETEL: 886 (2) 8912-4000
+  ¡EFAX: 886 (2) 8912-4005
+  ¡EHow to submit a question?
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+  Technical
+  Issues about using motherobard, graphic card, system, networking and communication products.
+  Non-technical
+  Sales and marketing issues
+  ¡EWEB Address (English): http://www.gigabyte.com
+  ¡EWEB Address (Chinese): http://www.gigabyte.tw
+
+  U.S.A
+  G.B.T. INC.
+  ¡EAddress: 17358 Railroad St, City of Industry, CA 91748.
+  ¡ETel: 1 (626) 854-9338
+  ¡EFax: 1 (626) 854-9339
+  ¡EHow to submit a question?
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+  Technical
+  Issues about using motherobard, graphic card, system, networking and communication products.
+  Non-technical
+  Sales and marketing issues
+  ¡EWEB Address: http://www.gigabyte.us
+
+  Germany
+  G.B.T. Technology Trading GmbH
+  ¡ETel:49-40-2533040 (Tech.)
+  ¡EFax:49-40-25330445 (Sales)
+  ¡EHow to submit a question?
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+  Technical
+  Issues about using motherobard, graphic card, system, networking and communication products.
+  Non-technical
+  Sales and marketing issues
+  ¡EWEB Address: http://www.gigabyte.de
+
+  Japan
+  Nippon Giga-Byte Corporation
+  ¡EWEB Address: http://www.gigabyte.jp/
+
+
+  China
+  NINGBO G.B.T. Tech. Trading CO., Ltd.
+  Shanghai
+    Tel: 86-21-63410999 
+    Fax: 86-21-63410100 
+    WEB Address: http://www.gigabyte.cn
+  GuangZhou
+    Tel: 86-20-87540700 
+    Fax: 86-20-87544306 
+    WEB Address: http://www.gigabyte.cn
+  Beijing 
+     TEL: 86-10-62102838 
+     FAX: 86-10-62102848 
+     WEB Address: http://www.gigabyte.cn 
+  Chengdu 
+  ¡E Tel: 86-28-85236930 
+  ¡E Fax: 86-28-85256822 
+  ¡E WEB Address: http://www.gigabyte.cn 
+  Wuhan 
+     Tel: 86-27-87851061 
+     Fax: 86-27-87851330 
+     WEB Address: http://www.gigabyte.cn 
+  Xian 
+     Tel: 86-29-85531943 
+     Fax: 86-29-85510930  
+  ¡E WEB Address: http://www.gigabyte.cn 
+  Shenyang 
+  ¡E Tel: 86-24-83992901 
+     Fax: 86-24-83992909 
+     WEB Address: http://www.gigabyte.cn 
+  ¡E How to submit a question? 
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+   Technical Issues about using motherobard, graphic card, system, networking and communication products. 
+   Non-technical Sales and marketing issues 
+ 
+  U.K. 
+  G.B.T. TECH. CO. LTD. 
+  ¡E Tel: 44-1908-362700 
+  ¡E Fax: 44-1908-362709 
+  ¡E How to submit a question? 
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+   Technical Issues about using motherobard, graphic card, system, networking and communication products. 
+  Non-technical Sales and marketing issues 
+  ¡E WEB Address: http://www.giga-byte.co.uk 
+
+  The Netherlands 
+  Giga-Byte Technology B.V. 
+  ¡E Address: Verdunplein 8 5627 SZ, Eindhoven, The Netherlands  
+  ¡E Tel: +31 40 290 2088 
+  ¡E NL Tech.Support : 0900-GIGABYTE (0900-44422983, £á0.2/M) 
+  ¡E BE Tech.Support : 0900-84034 (£á0.4/M) 
+  ¡E Fax: +31 40 290 2089 
+  ¡E How to submit a question? 
+   We have been constantly striving hard to provide you with faster and more efficient mail replying service.
+   If you have any inquiry please classify it into the following topics. 
+   The respective department will attend to the inquiry as soon as possible. Thank you for your cooperation!
+   Technical Issues about using motherobard, graphic card, system, networking and communication products. 
+   Non-technical Sales and marketing issues 
+  ¡E WEB Address: http://www.gigabyte.co.nl/ 
+ 
